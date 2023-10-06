@@ -1,7 +1,7 @@
 ---
 title: "Lab 02 - Global plastic waste"
 <<<<<<< HEAD
-author: "‘templers': Jiacheng Zhang, Mengchuan Sun,"
+author: "‘templers': Jiacheng Zhang, Mengchuan Sun, Tudor Cucu"
 =======
 author: "'templers': Jiacheng Zhang, Mengchuan Sun, Tudor Cucu and Jamie Adamiec"
 >>>>>>> 3c5024b65018491ba491b800a5e05aca3fc883d0
